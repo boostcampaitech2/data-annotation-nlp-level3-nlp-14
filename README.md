@@ -48,7 +48,6 @@
 │   └── utils
 │         ├── calculate_iaa.py
 │         └── fleiss.py
-├── .gitignore
 └── README.md
 ```
 
